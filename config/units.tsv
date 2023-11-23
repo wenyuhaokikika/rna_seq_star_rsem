@@ -1,0 +1,23 @@
+# sample是样本ID，unit重复次数，library是文库名称，platform作为测序平台，fq1和fq2分别为双端测序的两个fastq文件
+sample	unit	library	platform	fq1	fq2
+SRR21711216	1	PRJNA884384	Illumina_HiSeq_2500	/data/wyh/share/GEO/RNA-Seq/SRR21711216/SRR21711216_1.fastq.gz	/data/wyh/share/GEO/RNA-Seq/SRR21711216/SRR21711216_2.fastq.gz
+SRR21711217	1	PRJNA884384	Illumina_HiSeq_2500	/data/wyh/share/GEO/RNA-Seq/SRR21711217/SRR21711217_1.fastq.gz	/data/wyh/share/GEO/RNA-Seq/SRR21711217/SRR21711217_2.fastq.gz
+SRR21711218	1	PRJNA884384	Illumina_HiSeq_2500	/data/wyh/share/GEO/RNA-Seq/SRR21711218/SRR21711218_1.fastq.gz	/data/wyh/share/GEO/RNA-Seq/SRR21711218/SRR21711218_2.fastq.gz
+SRR8615898	1	PRJNA523380	Illumina_HiSeq_2500	/data/wyh/share/GEO/RNA-Seq/SRR8615898/SRR8615898_1.fastq.gz	/data/wyh/share/GEO/RNA-Seq/SRR8615898/SRR8615898_2.fastq.gz
+SRR16347765	1	PRJNA771412	Illumina_HiSeq_4000	/data/wyh/share/GEO/RNA-Seq/SRR16347765/SRR16347765_1.fastq.gz	/data/wyh/share/GEO/RNA-Seq/SRR16347765/SRR16347765_2.fastq.gz
+SRR22500389	1	GSE219215	Illumina_NovaSeq_6000	/data/wyh/share/run/RNAseq/bone/SRR22500389_1.fastq.gz	/data/wyh/share/run/RNAseq/bone/SRR22500389_2.fastq.gz
+SRR22500390	1	GSE219215	Illumina_NovaSeq_6000	/data/wyh/share/run/RNAseq/bone/SRR22500390_1.fastq.gz	/data/wyh/share/run/RNAseq/bone/SRR22500390_2.fastq.gz
+SRR22500391	1	GSE219215	Illumina_NovaSeq_6000	/data/wyh/share/run/RNAseq/bone/SRR22500391_1.fastq.gz	/data/wyh/share/run/RNAseq/bone/SRR22500391_2.fastq.gz
+SRR22500392	1	GSE219215	Illumina_NovaSeq_6000	/data/wyh/share/run/RNAseq/bone/SRR22500392_1.fastq.gz	/data/wyh/share/run/RNAseq/bone/SRR22500392_2.fastq.gz
+SRR22500397	1	GSE219215	Illumina_NovaSeq_6000	/data/wyh/share/run/RNAseq/bone/SRR22500397_1.fastq.gz	/data/wyh/share/run/RNAseq/bone/SRR22500397_2.fastq.gz
+SRR22500398	1	GSE219215	Illumina_NovaSeq_6000	/data/wyh/share/run/RNAseq/bone/SRR22500398_1.fastq.gz	/data/wyh/share/run/RNAseq/bone/SRR22500398_2.fastq.gz
+SRR22500399	1	GSE219215	Illumina_NovaSeq_6000	/data/wyh/share/run/RNAseq/bone/SRR22500399_1.fastq.gz	/data/wyh/share/run/RNAseq/bone/SRR22500399_2.fastq.gz
+SRR22500400	1	GSE219215	Illumina_NovaSeq_6000	/data/wyh/share/run/RNAseq/bone/SRR22500400_1.fastq.gz	/data/wyh/share/run/RNAseq/bone/SRR22500400_2.fastq.gz
+SRR10129615	1	PRJNA565658	Illumina_HiSeq_2000	/data/wyh/share/run/RNAseq/hek293t/SRR10129615_1.fastq.gz	/data/wyh/share/run/RNAseq/hek293t/SRR10129615_2.fastq.gz
+SRR10129616	1	PRJNA565658	Illumina_HiSeq_2000	/data/wyh/share/run/RNAseq/hek293t/SRR10129616_1.fastq.gz	/data/wyh/share/run/RNAseq/hek293t/SRR10129616_2.fastq.gz
+SRR10129617	1	PRJNA565658	Illumina_HiSeq_2000	/data/wyh/share/run/RNAseq/hek293t/SRR10129617_1.fastq.gz	/data/wyh/share/run/RNAseq/hek293t/SRR10129617_2.fastq.gz
+SRR10129623	1	PRJNA565658	Illumina_HiSeq_2000	/data/wyh/share/run/RNAseq/hek293t/SRR10129623_1.fastq.gz	/data/wyh/share/run/RNAseq/hek293t/SRR10129623_2.fastq.gz
+SRR10129624	1	PRJNA565658	Illumina_HiSeq_2000	/data/wyh/share/run/RNAseq/hek293t/SRR10129624_1.fastq.gz	/data/wyh/share/run/RNAseq/hek293t/SRR10129624_2.fastq.gz
+SRR10129625	1	PRJNA565658	Illumina_HiSeq_2000	/data/wyh/share/run/RNAseq/hek293t/SRR10129625_1.fastq.gz	/data/wyh/share/run/RNAseq/hek293t/SRR10129625_2.fastq.gz
+
+

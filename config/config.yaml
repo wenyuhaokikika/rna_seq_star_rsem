@@ -1,0 +1,31 @@
+samples: config/samples.tsv
+units: config/units.tsv
+
+# reference
+genome:
+  fasta: /data/wyh/share/gencodegenes/GRCh38.p13.genome.fa
+  star_index: /data/wyh/share/gencodegenes/index
+  gtf: /data/wyh/share/gencodegenes/gencode.v41.annotation.gtf
+  geneset:
+    go: /data/wenyuhao/GSEA/c5.go.v2022.1.Hs.symbols.gmt
+    kegg: /data/wenyuhao/GSEA/c2.cp.kegg.v2022.1.Hs.symbols.gmt
+
+reference:
+  version: GRCh38
+  release: 104
+  refDir: /data/wyh/share/GEO/bone/RNA551/reference
+
+# output plots formats
+plot_formats:
+  - pdf
+  - png
+
+STAR:
+  threads: 20
+
+seed: 12
+threads: 20
+
+# workspace for all jobs to run the pipeline
+# all of your output will be place in this dir
+workspace: /data/wyh/share/GEO/bone/RNA551/results
